@@ -4,4 +4,5 @@ Lucid Chart Link: https://lucid.app/lucidchart/8e3d238b-d2e7-420a-8e52-03d81e231
 <br><br>
 
 
-<img width="521" height="880" alt="image" src="https://github.com/user-attachments/assets/4545e29a-7cb3-4b90-97fa-49ea04fedf18" />
+<img width="1216" height="1825" alt="Sequence Diagram Example (1)" src="https://github.com/user-attachments/assets/47c284bd-3d1f-490f-bf4e-83ba88ec8b18" />
+
